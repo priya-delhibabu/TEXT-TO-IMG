@@ -1,14 +1,3 @@
-# Internship Project – Text to Image Generation
-
-## 👤 Submitted by:
-- **Name**: MD Loghapriya  
-- **Institute**: SRM IST, Ramapuram  
-- **Email**: priyadelhibabu@gmail.com  
-
-## 📅 Duration:
-21st June 2025 – 21st July 2025
-
----
 
 ## 📌 Project Summary
 
